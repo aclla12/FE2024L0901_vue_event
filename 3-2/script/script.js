@@ -1,5 +1,4 @@
 // JavaScript用ファイル
-// JavaScript用ファイル
 new Vue({
     el: '#app',
     data() {
@@ -9,7 +8,7 @@ new Vue({
     },
     methods: {
        increment() {
-            this.coutn++;
+            this.count++;
        },
        decrement() {
             this.count--;
